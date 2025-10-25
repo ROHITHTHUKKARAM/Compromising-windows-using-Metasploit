@@ -76,6 +76,7 @@ copy the fun.exe into the apache ```/var/www/html ```folder
 
 
 Start apache server ```sudo systemctl apache2 start``` 
+
 <img width="445" height="70" alt="Screenshot 2025-10-25 091234" src="https://github.com/user-attachments/assets/c98de86c-880b-43dc-beae-b7145af422d8" />
 
 
